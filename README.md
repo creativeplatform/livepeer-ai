@@ -4,6 +4,8 @@ Preconfigured with Next.js, TailwindCSS, and ShadCN UI.
 
 ### Getting started
 
+*Use `developer` branch*
+
 1. Rename `.env.local.example` to `.env.local`
 
 2. Update Livepeer API key and Playback ID in `.env.local`
