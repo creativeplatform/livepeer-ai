@@ -1,5 +1,5 @@
 {
-  "name": "livepeer-boilerplate",
+  "name": "livepeer-AI",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@livepeer/react": "^3.0.10",
+    "@livepeer/react": "^3.1.8",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.294.0",
