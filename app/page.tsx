@@ -16,7 +16,7 @@ export default function Home() {
       <p className='pb-4 font-black text-4xl'>
         Livepeer AI Studio
       </p>
-      <div className="flex w-full">
+      <div className="flex mt-4 w-full">
         <div className="relative h-10 w-full min-w-[200px]">
           <input 
             type='text' 
