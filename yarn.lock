@@ -129,12 +129,12 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@livepeer/core-react@^2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@livepeer/core-react/-/core-react-2.0.9.tgz#3b5143363a99249403a49706f2fba438ff0404a2"
-  integrity sha512-4L+LMhhaDLuj1Pd8JB12at05MA378ak1liMslMM7Rz5szHLQsYArHZVagWkrX+v85RROkFWXuh2IAucASBxBhA==
+"@livepeer/core-react@^2.1.8":
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/@livepeer/core-react/-/core-react-2.1.8.tgz#0c305a3404b6b3099e8d6dc67cc36ff5a571911d"
+  integrity sha512-dW407B2v9bEG96MEsvUDPvdPP0gac4AZ1u56mQK5T4fDLQgncCTqPhXgoCRQOnfKtEy/pPMZrnpC97gC3Hv9lA==
   dependencies:
-    "@livepeer/core" "^2.0.10"
+    "@livepeer/core" "^2.1.8"
     "@tanstack/query-async-storage-persister" "4.29.23"
     "@tanstack/query-core" "4.29.23"
     "@tanstack/react-query" "4.29.23"
@@ -142,12 +142,12 @@
     use-sync-external-store "^1.2.0"
     zustand "^4.3.9"
 
-"@livepeer/core-web@^3.0.10":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@livepeer/core-web/-/core-web-3.0.10.tgz#022ea057a605e085b3a1ee89082b76114392f657"
-  integrity sha512-UvSld52EmiVQgx1lemh3iq8gcoLVmB8ii2IkLQbQYPAkPjxUSaWJLd/iN71GL/UerRJ6RMOnkxhl0+9Q7vKM0Q==
+"@livepeer/core-web@^3.1.8":
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/@livepeer/core-web/-/core-web-3.1.8.tgz#c85d68239eff53b7d569bf406c0eefb3976e4955"
+  integrity sha512-wJ4S8RbgV7EcNSL3f/73XspI89tgRGhh5TNIc6xlrma2AmtfrJQaV6nO0bGCxo2jfR8egejYkp+x5xSCR9yd2w==
   dependencies:
-    "@livepeer/core" "^2.0.10"
+    "@livepeer/core" "^2.1.8"
     "@stitches/core" "^1.2.8"
     core-js "^3.31.1"
     cross-fetch "^4.0.0"
@@ -156,10 +156,10 @@
     tus-js-client "^3.1.0"
     zustand "^4.3.9"
 
-"@livepeer/core@^2.0.10":
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/@livepeer/core/-/core-2.0.10.tgz#5f3372532b64ad10d833d71c0b9f2722f0d0f66d"
-  integrity sha512-luiIRymvDiunSqtTS4wLlnR2S5bHia1FBYSBUR5s85eDy9yh/kRmGrCha7G/I0M7OCvK6YPHkmEOhpMPOlfTng==
+"@livepeer/core@^2.1.8":
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/@livepeer/core/-/core-2.1.8.tgz#eb76fc4d45a182c8bb4e8203164e9b00cadd854d"
+  integrity sha512-9fbv/xQ8x8UYjTLncLjKwVIM5txbdXJrrghPWH1ssZBRrslzRQ7jSbeYbF0v2T4QKhmS/yOmjyyyowfU6W128w==
   dependencies:
     cross-fetch "^4.0.0"
     ms "^3.0.0-canary.1"
@@ -167,13 +167,13 @@
     tus-js-client "^3.1.0"
     zustand "^4.3.9"
 
-"@livepeer/react@^3.0.10":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@livepeer/react/-/react-3.0.10.tgz#27533fbaac538f9f248bde189ce48203891e947c"
-  integrity sha512-uXHh0tJ1/4X55v7GufbSzZD274gu3ZNpHplehxOKsQKHJEERWI1fjtw/RALYmryOSLAINgthC+fktnkTqIPG5A==
+"@livepeer/react@^3.1.8":
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/@livepeer/react/-/react-3.1.8.tgz#5dd6ecca68f21bf40cfe3fd89be0d0e062b54ceb"
+  integrity sha512-owzx/1ghXXYa1Nkj5o1oLcXQnm7o01xz5haWaxZBkBJiHkmnm0lgOUX0GbGivDrV7+do1plAMSNBwj18Y/2Q/Q==
   dependencies:
-    "@livepeer/core-react" "^2.0.9"
-    "@livepeer/core-web" "^3.0.10"
+    "@livepeer/core-react" "^2.1.8"
+    "@livepeer/core-web" "^3.1.8"
     "@radix-ui/react-dialog" "^1.0.4"
     "@radix-ui/react-popover" "^1.0.6"
     "@radix-ui/react-select" "^1.2.2"
