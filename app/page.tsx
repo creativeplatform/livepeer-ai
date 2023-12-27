@@ -34,7 +34,7 @@ export default function Home() {
         <div className='flex justify-end'>
           {text.length}/380
         </div>
-        <div className="w-full pt-2 mb-8 mx-auto flex justify-end">
+        <div className="w-full pt-2 mb-8 mx-auto flex justify-start">
           <button className="mt-4 bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-4 rounded">
             Generate
           </button>
